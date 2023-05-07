@@ -1,0 +1,19 @@
+.title{
+    text-align: center;
+}
+
+.store_items{
+    text-align: center;
+}
+
+.storeForm{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    gap: 20px;
+}
+
+.input{
+    width: 250px;
+}
